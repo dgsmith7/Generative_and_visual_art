@@ -27,14 +27,14 @@ void setup() {
 }
 
 void draw() {
-  background(0, 0, 99);
+  //background(0, 0, 99);
 
   r += 0.003;
   translate(width/2, height/2);
   rotate(r);
   translate(-width/2, -height/2);
 
-  //  background(0, 0, 48);
+    background(0, 0, 48);
   ellipse(width/2, height/2, 5, 5);
   colorTop = noise(noise1, noise2) * 360;
   colorBottom = noise(noise2, noise1) * 360;
@@ -54,7 +54,8 @@ void draw() {
     // for color change of entire blossom - uncomment lines 28 and 36
     //nodes.get(i).c = color(map(nodes.get(i).radius, 0, width/2.5, colorTop, colorBottom), 85, 85);    
     //    nodes.get(i).display();
-    nodes.get(i).displayHeart();
+    //nodes.get(i).displayHeart();
+    nodes.get(i).displayHex();
     if (nodes.get(i).radius > visRange) {
       nodes.remove(i);
     }
