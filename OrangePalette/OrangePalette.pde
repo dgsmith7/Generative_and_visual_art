@@ -1,0 +1,21 @@
+color c1 = color(237, 149, 34);
+color c2 = color(14, 90, 79);
+color c3 = color(15, 183, 142);
+color c4 = color(196, 237, 220);
+color c5 = color(222, 120, 18);
+color c6 = color(10, 70, 45);
+
+size (600, 100);
+noStroke();
+fill(c1);
+rect(0, 0, 100, 100);
+fill(c2);
+rect(100, 0, 100, 100);
+fill(c3);
+rect(200, 0, 100, 100);
+fill(c4);
+rect(300, 0, 100, 100);
+fill(c5);
+rect(400, 0, 100, 100);
+fill(c6);
+rect(500, 0, 100, 100);

@@ -1,0 +1,989 @@
+Triangle 0, First point - x:1848.0, y:0749.0, z:-1736.0
+   0125.0 units to the second point:
+Triangle 0, Second point - x:1973.0, y:0749.0, z:-1736.0
+   0216.5 units to the third point:
+Triangle 0, Third point - x:1848.0, y:0874.0, z:-1611.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 0 to First point on Triangle 4  is: 0249.5
+     Second point on Triangle 0 to Second point on Triangle 4 is: 0249.5
+     Third point on Triangle 0 to Third point on Triangle 4 is: 0249.5
+
+Triangle 4, First point - x:1889.0, y:0965.7, z:-1852.6
+   0125.0 units to the second point:
+Triangle 4, Second point - x:2014.0, y:0965.7, z:-1852.6
+   0216.5 units to the third point:
+Triangle 4, Third point - x:1889.0, y:1090.7, z:-1727.6
+   0176.8 units back to the first point.
+
+     First point on Triangle 4 to First point on Triangle 8  is: 0177.9
+     Second point on Triangle 4 to Second point on Triangle 8 is: 0177.9
+     Third point on Triangle 4 to Third point on Triangle 8 is: 0177.9
+
+Triangle 8, First point - x:1854.8, y:1131.5, z:-1907.3
+   0125.0 units to the second point:
+Triangle 8, Second point - x:1979.8, y:1131.5, z:-1907.3
+   0216.5 units to the third point:
+Triangle 8, Third point - x:1854.8, y:1256.5, z:-1782.3
+   0176.8 units back to the first point.
+
+     First point on Triangle 8 to First point on Triangle 12  is: 0144.1
+     Second point on Triangle 8 to Second point on Triangle 12 is: 0144.1
+     Third point on Triangle 8 to Third point on Triangle 12 is: 0144.1
+
+Triangle 12, First point - x:1751.7, y:1229.9, z:-1885.5
+   0125.0 units to the second point:
+Triangle 12, Second point - x:1876.7, y:1229.9, z:-1885.5
+   0216.5 units to the third point:
+Triangle 12, Third point - x:1751.7, y:1354.9, z:-1760.5
+   0176.8 units back to the first point.
+
+     First point on Triangle 12 to First point on Triangle 16  is: 0188.5
+     Second point on Triangle 12 to Second point on Triangle 16 is: 0188.5
+     Third point on Triangle 12 to Third point on Triangle 16 is: 0188.5
+
+Triangle 16, First point - x:1595.4, y:1254.2, z:-1782.9
+   0125.0 units to the second point:
+Triangle 16, Second point - x:1720.4, y:1254.2, z:-1782.9
+   0216.5 units to the third point:
+Triangle 16, Third point - x:1595.4, y:1379.2, z:-1657.9
+   0176.8 units back to the first point.
+
+     First point on Triangle 16 to First point on Triangle 20  is: 0261.5
+     Second point on Triangle 16 to Second point on Triangle 20 is: 0261.5
+     Third point on Triangle 16 to Third point on Triangle 20 is: 0261.5
+
+Triangle 20, First point - x:1407.4, y:1209.0, z:-1606.9
+   0125.0 units to the second point:
+Triangle 20, Second point - x:1532.4, y:1209.0, z:-1606.9
+   0216.5 units to the third point:
+Triangle 20, Third point - x:1407.4, y:1334.0, z:-1481.9
+   0176.8 units back to the first point.
+
+     First point on Triangle 20 to First point on Triangle 24  is: 0319.0
+     Second point on Triangle 20 to Second point on Triangle 24 is: 0319.0
+     Third point on Triangle 20 to Third point on Triangle 24 is: 0319.0
+
+Triangle 24, First point - x:1211.8, y:1109.9, z:-1375.2
+   0125.0 units to the second point:
+Triangle 24, Second point - x:1336.8, y:1109.9, z:-1375.2
+   0216.5 units to the third point:
+Triangle 24, Third point - x:1211.8, y:1234.9, z:-1250.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 24 to First point on Triangle 28  is: 0342.9
+     Second point on Triangle 24 to Second point on Triangle 28 is: 0342.9
+     Third point on Triangle 24 to Third point on Triangle 28 is: 0342.9
+
+Triangle 28, First point - x:1031.1, y:0980.4, z:-1114.0
+   0125.0 units to the second point:
+Triangle 28, Second point - x:1156.1, y:0980.4, z:-1114.0
+   0216.5 units to the third point:
+Triangle 28, Third point - x:1031.1, y:1105.4, z:-0989.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 28 to First point on Triangle 32  is: 0327.0
+     Second point on Triangle 28 to Second point on Triangle 32 is: 0327.0
+     Third point on Triangle 28 to Third point on Triangle 32 is: 0327.0
+
+Triangle 32, First point - x:0882.5, y:0848.6, z:-0854.2
+   0125.0 units to the second point:
+Triangle 32, Second point - x:1007.5, y:0848.6, z:-0854.2
+   0216.5 units to the third point:
+Triangle 32, Third point - x:0882.5, y:0973.6, z:-0729.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 32 to First point on Triangle 36  is: 0273.2
+     Second point on Triangle 32 to Second point on Triangle 36 is: 0273.2
+     Third point on Triangle 32 to Third point on Triangle 36 is: 0273.2
+
+Triangle 36, First point - x:0775.8, y:0742.6, z:-0626.2
+   0125.0 units to the second point:
+Triangle 36, Second point - x:0900.8, y:0742.6, z:-0626.2
+   0216.5 units to the third point:
+Triangle 36, Third point - x:0775.8, y:0867.6, z:-0501.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 36 to First point on Triangle 40  is: 0191.2
+     Second point on Triangle 36 to Second point on Triangle 40 is: 0191.2
+     Third point on Triangle 36 to Third point on Triangle 40 is: 0191.2
+
+Triangle 40, First point - x:0712.1, y:0685.3, z:-0455.2
+   0125.0 units to the second point:
+Triangle 40, Second point - x:0837.1, y:0685.3, z:-0455.2
+   0216.5 units to the third point:
+Triangle 40, Third point - x:0712.1, y:0810.3, z:-0330.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 40 to First point on Triangle 44  is: 0101.5
+     Second point on Triangle 40 to Second point on Triangle 44 is: 0101.5
+     Third point on Triangle 40 to Third point on Triangle 44 is: 0101.5
+
+Triangle 44, First point - x:0684.3, y:0690.8, z:-0357.7
+   0125.0 units to the second point:
+Triangle 44, Second point - x:0809.3, y:0690.8, z:-0357.7
+   0216.5 units to the third point:
+Triangle 44, Third point - x:0684.3, y:0815.8, z:-0232.7
+   0176.8 units back to the first point.
+
+     First point on Triangle 44 to First point on Triangle 48  is: 0073.7
+     Second point on Triangle 44 to Second point on Triangle 48 is: 0073.7
+     Third point on Triangle 44 to Third point on Triangle 48 is: 0073.7
+
+Triangle 48, First point - x:0679.6, y:0761.8, z:-0338.2
+   0125.0 units to the second point:
+Triangle 48, Second point - x:0804.6, y:0761.8, z:-0338.2
+   0216.5 units to the third point:
+Triangle 48, Third point - x:0679.6, y:0886.8, z:-0213.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 48 to First point on Triangle 52  is: 0136.4
+     Second point on Triangle 48 to Second point on Triangle 52 is: 0136.4
+     Third point on Triangle 48 to Third point on Triangle 52 is: 0136.4
+
+Triangle 52, First point - x:0681.7, y:0888.4, z:-0388.8
+   0125.0 units to the second point:
+Triangle 52, Second point - x:0806.7, y:0888.4, z:-0388.8
+   0216.5 units to the third point:
+Triangle 52, Third point - x:0681.7, y:1013.4, z:-0263.8
+   0176.8 units back to the first point.
+
+     First point on Triangle 52 to First point on Triangle 56  is: 0191.3
+     Second point on Triangle 52 to Second point on Triangle 56 is: 0191.3
+     Third point on Triangle 52 to Third point on Triangle 56 is: 0191.3
+
+Triangle 56, First point - x:0674.6, y:1050.3, z:-0490.5
+   0125.0 units to the second point:
+Triangle 56, Second point - x:0799.6, y:1050.3, z:-0490.5
+   0216.5 units to the third point:
+Triangle 56, Third point - x:0674.6, y:1175.3, z:-0365.5
+   0176.8 units back to the first point.
+
+     First point on Triangle 56 to First point on Triangle 60  is: 0212.2
+     Second point on Triangle 56 to Second point on Triangle 60 is: 0212.2
+     Third point on Triangle 56 to Third point on Triangle 60 is: 0212.2
+
+Triangle 60, First point - x:0646.0, y:1219.0, z:-0616.0
+   0125.0 units to the second point:
+Triangle 60, Second point - x:0771.0, y:1219.0, z:-0616.0
+   0216.5 units to the third point:
+Triangle 60, Third point - x:0646.0, y:1344.0, z:-0491.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 60 to First point on Triangle 64  is: 0194.8
+     Second point on Triangle 60 to Second point on Triangle 64 is: 0194.8
+     Third point on Triangle 60 to Third point on Triangle 64 is: 0194.8
+
+Triangle 64, First point - x:0589.2, y:1362.8, z:-0734.5
+   0125.0 units to the second point:
+Triangle 64, Second point - x:0714.2, y:1362.8, z:-0734.5
+   0216.5 units to the third point:
+Triangle 64, Third point - x:0589.2, y:1487.8, z:-0609.5
+   0176.8 units back to the first point.
+
+     First point on Triangle 64 to First point on Triangle 68  is: 0147.8
+     Second point on Triangle 64 to Second point on Triangle 68 is: 0147.8
+     Third point on Triangle 64 to Third point on Triangle 68 is: 0147.8
+
+Triangle 68, First point - x:0504.8, y:1452.0, z:-0816.8
+   0125.0 units to the second point:
+Triangle 68, Second point - x:0629.8, y:1452.0, z:-0816.8
+   0216.5 units to the third point:
+Triangle 68, Third point - x:0504.8, y:1577.0, z:-0691.8
+   0176.8 units back to the first point.
+
+     First point on Triangle 68 to First point on Triangle 72  is: 0107.8
+     Second point on Triangle 68 to Second point on Triangle 72 is: 0107.8
+     Third point on Triangle 68 to Third point on Triangle 72 is: 0107.8
+
+Triangle 72, First point - x:0400.2, y:1463.5, z:-0839.9
+   0125.0 units to the second point:
+Triangle 72, Second point - x:0525.2, y:1463.5, z:-0839.9
+   0216.5 units to the third point:
+Triangle 72, Third point - x:0400.2, y:1588.5, z:-0714.9
+   0176.8 units back to the first point.
+
+     First point on Triangle 72 to First point on Triangle 76  is: 0145.1
+     Second point on Triangle 72 to Second point on Triangle 76 is: 0145.1
+     Third point on Triangle 72 to Third point on Triangle 76 is: 0145.1
+
+Triangle 76, First point - x:0288.2, y:1385.1, z:-0791.3
+   0125.0 units to the second point:
+Triangle 76, Second point - x:0413.2, y:1385.1, z:-0791.3
+   0216.5 units to the third point:
+Triangle 76, Third point - x:0288.2, y:1510.1, z:-0666.3
+   0176.8 units back to the first point.
+
+     First point on Triangle 76 to First point on Triangle 80  is: 0230.9
+     Second point on Triangle 76 to Second point on Triangle 80 is: 0230.9
+     Third point on Triangle 76 to Third point on Triangle 80 is: 0230.9
+
+Triangle 80, First point - x:0184.5, y:1217.4, z:-0671.1
+   0125.0 units to the second point:
+Triangle 80, Second point - x:0309.5, y:1217.4, z:-0671.1
+   0216.5 units to the third point:
+Triangle 80, Third point - x:0184.5, y:1342.4, z:-0546.1
+   0176.8 units back to the first point.
+
+     First point on Triangle 80 to First point on Triangle 84  is: 0312.3
+     Second point on Triangle 80 to Second point on Triangle 84 is: 0312.3
+     Third point on Triangle 80 to Third point on Triangle 84 is: 0312.3
+
+Triangle 84, First point - x:0104.8, y:0974.2, z:-0492.2
+   0125.0 units to the second point:
+Triangle 84, Second point - x:0229.8, y:0974.2, z:-0492.2
+   0216.5 units to the third point:
+Triangle 84, Third point - x:0104.8, y:1099.2, z:-0367.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 84 to First point on Triangle 88  is: 0365.7
+     Second point on Triangle 84 to Second point on Triangle 88 is: 0365.7
+     Third point on Triangle 84 to Third point on Triangle 88 is: 0365.7
+
+Triangle 88, First point - x:0061.6, y:0680.6, z:-0278.4
+   0125.0 units to the second point:
+Triangle 88, Second point - x:0186.6, y:0680.6, z:-0278.4
+   0216.5 units to the third point:
+Triangle 88, Third point - x:0061.6, y:0805.6, z:-0153.4
+   0176.8 units back to the first point.
+
+     First point on Triangle 88 to First point on Triangle 92  is: 0379.7
+     Second point on Triangle 88 to Second point on Triangle 92 is: 0379.7
+     Third point on Triangle 88 to Third point on Triangle 92 is: 0379.7
+
+Triangle 92, First point - x:0061.6, y:0369.4, z:-0060.9
+   0125.0 units to the second point:
+Triangle 92, Second point - x:0186.6, y:0369.4, z:-0060.9
+   0216.5 units to the third point:
+Triangle 92, Third point - x:0061.6, y:0494.4, z:0064.1
+   0176.8 units back to the first point.
+
+     First point on Triangle 92 to First point on Triangle 96  is: 0351.1
+     Second point on Triangle 92 to Second point on Triangle 96 is: 0351.1
+     Third point on Triangle 92 to Third point on Triangle 96 is: 0351.1
+
+Triangle 96, First point - x:0104.8, y:0075.8, z:0126.8
+   0125.0 units to the second point:
+Triangle 96, Second point - x:0229.8, y:0075.8, z:0126.8
+   0216.5 units to the third point:
+Triangle 96, Third point - x:0104.8, y:0200.8, z:0251.8
+   0176.8 units back to the first point.
+
+     First point on Triangle 96 to First point on Triangle 100  is: 0285.8
+     Second point on Triangle 96 to Second point on Triangle 100 is: 0285.8
+     Third point on Triangle 96 to Third point on Triangle 100 is: 0285.8
+
+Triangle 100, First point - x:0184.5, y:-0167.4, z:0254.1
+   0125.0 units to the second point:
+Triangle 100, Second point - x:0309.5, y:-0167.4, z:0254.1
+   0216.5 units to the third point:
+Triangle 100, Third point - x:0184.5, y:-0042.4, z:0379.1
+   0176.8 units back to the first point.
+
+     First point on Triangle 100 to First point on Triangle 104  is: 0202.0
+     Second point on Triangle 100 to Second point on Triangle 104 is: 0202.0
+     Third point on Triangle 100 to Third point on Triangle 104 is: 0202.0
+
+Triangle 104, First point - x:0288.2, y:-0335.1, z:0298.0
+   0125.0 units to the second point:
+Triangle 104, Second point - x:0413.2, y:-0335.1, z:0298.0
+   0216.5 units to the third point:
+Triangle 104, Third point - x:0288.2, y:-0210.1, z:0423.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 104 to First point on Triangle 108  is: 0145.9
+     Second point on Triangle 104 to Second point on Triangle 108 is: 0145.9
+     Third point on Triangle 104 to Third point on Triangle 108 is: 0145.9
+
+Triangle 108, First point - x:0400.2, y:-0413.5, z:0247.2
+   0125.0 units to the second point:
+Triangle 108, Second point - x:0525.2, y:-0413.5, z:0247.2
+   0216.5 units to the third point:
+Triangle 108, Third point - x:0400.2, y:-0288.5, z:0372.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 108 to First point on Triangle 112  is: 0178.1
+     Second point on Triangle 108 to Second point on Triangle 112 is: 0178.1
+     Third point on Triangle 108 to Third point on Triangle 112 is: 0178.1
+
+Triangle 112, First point - x:0504.8, y:-0402.0, z:0103.6
+   0125.0 units to the second point:
+Triangle 112, Second point - x:0629.8, y:-0402.0, z:0103.6
+   0216.5 units to the third point:
+Triangle 112, Third point - x:0504.8, y:-0277.0, z:0228.6
+   0176.8 units back to the first point.
+
+     First point on Triangle 112 to First point on Triangle 116  is: 0253.4
+     Second point on Triangle 112 to Second point on Triangle 116 is: 0253.4
+     Third point on Triangle 112 to Third point on Triangle 116 is: 0253.4
+
+Triangle 116, First point - x:0589.2, y:-0312.8, z:-0118.0
+   0125.0 units to the second point:
+Triangle 116, Second point - x:0714.2, y:-0312.8, z:-0118.0
+   0216.5 units to the third point:
+Triangle 116, Third point - x:0589.2, y:-0187.8, z:0007.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 116 to First point on Triangle 120  is: 0314.6
+     Second point on Triangle 116 to Second point on Triangle 120 is: 0314.6
+     Third point on Triangle 116 to Third point on Triangle 120 is: 0314.6
+
+Triangle 120, First point - x:0646.0, y:-0169.0, z:-0392.0
+   0125.0 units to the second point:
+Triangle 120, Second point - x:0771.0, y:-0169.0, z:-0392.0
+   0216.5 units to the third point:
+Triangle 120, Third point - x:0646.0, y:-0044.0, z:-0267.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 120 to First point on Triangle 124  is: 0340.2
+     Second point on Triangle 120 to Second point on Triangle 124 is: 0340.2
+     Third point on Triangle 120 to Third point on Triangle 124 is: 0340.2
+
+Triangle 124, First point - x:0674.6, y:-0000.3, z:-0686.0
+   0125.0 units to the second point:
+Triangle 124, Second point - x:0799.6, y:-0000.3, z:-0686.0
+   0216.5 units to the third point:
+Triangle 124, Third point - x:0674.6, y:0124.7, z:-0561.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 124 to First point on Triangle 128  is: 0323.5
+     Second point on Triangle 124 to Second point on Triangle 128 is: 0323.5
+     Third point on Triangle 124 to Third point on Triangle 128 is: 0323.5
+
+Triangle 128, First point - x:0681.7, y:0161.6, z:-0966.0
+   0125.0 units to the second point:
+Triangle 128, Second point - x:0806.7, y:0161.6, z:-0966.0
+   0216.5 units to the third point:
+Triangle 128, Third point - x:0681.7, y:0286.6, z:-0841.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 128 to First point on Triangle 132  is: 0267.2
+     Second point on Triangle 128 to Second point on Triangle 132 is: 0267.2
+     Third point on Triangle 128 to Third point on Triangle 132 is: 0267.2
+
+Triangle 132, First point - x:0679.6, y:0288.2, z:-1201.3
+   0125.0 units to the second point:
+Triangle 132, Second point - x:0804.6, y:0288.2, z:-1201.3
+   0216.5 units to the third point:
+Triangle 132, Third point - x:0679.6, y:0413.2, z:-1076.3
+   0176.8 units back to the first point.
+
+     First point on Triangle 132 to First point on Triangle 136  is: 0182.3
+     Second point on Triangle 132 to Second point on Triangle 136 is: 0182.3
+     Third point on Triangle 132 to Third point on Triangle 136 is: 0182.3
+
+Triangle 136, First point - x:0684.3, y:0359.2, z:-1369.2
+   0125.0 units to the second point:
+Triangle 136, Second point - x:0809.3, y:0359.2, z:-1369.2
+   0216.5 units to the third point:
+Triangle 136, Third point - x:0684.3, y:0484.2, z:-1244.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 136 to First point on Triangle 140  is: 0093.3
+     Second point on Triangle 136 to Second point on Triangle 140 is: 0093.3
+     Third point on Triangle 136 to Third point on Triangle 140 is: 0093.3
+
+Triangle 140, First point - x:0712.1, y:0364.7, z:-1458.2
+   0125.0 units to the second point:
+Triangle 140, Second point - x:0837.1, y:0364.7, z:-1458.2
+   0216.5 units to the third point:
+Triangle 140, Third point - x:0712.1, y:0489.7, z:-1333.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 140 to First point on Triangle 144  is: 0086.4
+     Second point on Triangle 140 to Second point on Triangle 144 is: 0086.4
+     Third point on Triangle 140 to Third point on Triangle 144 is: 0086.4
+
+Triangle 144, First point - x:0775.8, y:0307.4, z:-1469.2
+   0125.0 units to the second point:
+Triangle 144, Second point - x:0900.8, y:0307.4, z:-1469.2
+   0216.5 units to the third point:
+Triangle 144, Third point - x:0775.8, y:0432.4, z:-1344.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 144 to First point on Triangle 148  is: 0159.9
+     Second point on Triangle 144 to Second point on Triangle 148 is: 0159.9
+     Third point on Triangle 144 to Third point on Triangle 148 is: 0159.9
+
+Triangle 148, First point - x:0882.5, y:0201.4, z:-1414.9
+   0125.0 units to the second point:
+Triangle 148, Second point - x:1007.5, y:0201.4, z:-1414.9
+   0216.5 units to the third point:
+Triangle 148, Third point - x:0882.5, y:0326.4, z:-1289.9
+   0176.8 units back to the first point.
+
+     First point on Triangle 148 to First point on Triangle 152  is: 0221.2
+     Second point on Triangle 148 to Second point on Triangle 152 is: 0221.2
+     Third point on Triangle 148 to Third point on Triangle 152 is: 0221.2
+
+Triangle 152, First point - x:1031.1, y:0069.6, z:-1317.5
+   0125.0 units to the second point:
+Triangle 152, Second point - x:1156.1, y:0069.6, z:-1317.5
+   0216.5 units to the third point:
+Triangle 152, Third point - x:1031.1, y:0194.6, z:-1192.5
+   0176.8 units back to the first point.
+
+     First point on Triangle 152 to First point on Triangle 156  is: 0249.6
+     Second point on Triangle 152 to Second point on Triangle 156 is: 0249.6
+     Third point on Triangle 152 to Third point on Triangle 156 is: 0249.6
+
+Triangle 156, First point - x:1211.8, y:-0059.9, z:-1204.2
+   0125.0 units to the second point:
+Triangle 156, Second point - x:1336.8, y:-0059.9, z:-1204.2
+   0216.5 units to the third point:
+Triangle 156, Third point - x:1211.8, y:0065.1, z:-1079.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 156 to First point on Triangle 160  is: 0241.6
+     Second point on Triangle 156 to Second point on Triangle 160 is: 0241.6
+     Third point on Triangle 156 to Third point on Triangle 160 is: 0241.6
+
+Triangle 160, First point - x:1407.4, y:-0159.0, z:-1102.7
+   0125.0 units to the second point:
+Triangle 160, Second point - x:1532.4, y:-0159.0, z:-1102.7
+   0216.5 units to the third point:
+Triangle 160, Third point - x:1407.4, y:-0034.0, z:-0977.7
+   0176.8 units back to the first point.
+
+     First point on Triangle 160 to First point on Triangle 164  is: 0204.2
+     Second point on Triangle 160 to Second point on Triangle 164 is: 0204.2
+     Third point on Triangle 160 to Third point on Triangle 164 is: 0204.2
+
+Triangle 164, First point - x:1595.4, y:-0204.2, z:-1036.8
+   0125.0 units to the second point:
+Triangle 164, Second point - x:1720.4, y:-0204.2, z:-1036.8
+   0216.5 units to the third point:
+Triangle 164, Third point - x:1595.4, y:-0079.2, z:-0911.8
+   0176.8 units back to the first point.
+
+     First point on Triangle 164 to First point on Triangle 168  is: 0158.9
+     Second point on Triangle 164 to Second point on Triangle 168 is: 0158.9
+     Third point on Triangle 164 to Third point on Triangle 168 is: 0158.9
+
+Triangle 168, First point - x:1751.7, y:-0179.9, z:-1022.3
+   0125.0 units to the second point:
+Triangle 168, Second point - x:1876.7, y:-0179.9, z:-1022.3
+   0216.5 units to the third point:
+Triangle 168, Third point - x:1751.7, y:-0054.9, z:-0897.3
+   0176.8 units back to the first point.
+
+     First point on Triangle 168 to First point on Triangle 172  is: 0148.6
+     Second point on Triangle 168 to Second point on Triangle 172 is: 0148.6
+     Third point on Triangle 168 to Third point on Triangle 172 is: 0148.6
+
+Triangle 172, First point - x:1854.8, y:-0081.5, z:-1064.7
+   0125.0 units to the second point:
+Triangle 172, Second point - x:1979.8, y:-0081.5, z:-1064.7
+   0216.5 units to the third point:
+Triangle 172, Third point - x:1854.8, y:0043.5, z:-0939.7
+   0176.8 units back to the first point.
+
+     First point on Triangle 172 to First point on Triangle 176  is: 0193.5
+     Second point on Triangle 172 to Second point on Triangle 176 is: 0193.5
+     Third point on Triangle 172 to Third point on Triangle 176 is: 0193.5
+
+Triangle 176, First point - x:1889.0, y:0084.3, z:-1158.3
+   0125.0 units to the second point:
+Triangle 176, Second point - x:2014.0, y:0084.3, z:-1158.3
+   0216.5 units to the third point:
+Triangle 176, Third point - x:1889.0, y:0209.3, z:-1033.3
+   0176.8 units back to the first point.
+
+     First point on Triangle 176 to First point on Triangle 180  is: 0255.8
+     Second point on Triangle 176 to Second point on Triangle 180 is: 0255.8
+     Third point on Triangle 176 to Third point on Triangle 180 is: 0255.8
+
+Triangle 180, First point - x:1848.0, y:0301.0, z:-1288.0
+   0125.0 units to the second point:
+Triangle 180, Second point - x:1973.0, y:0301.0, z:-1288.0
+   0216.5 units to the third point:
+Triangle 180, Third point - x:1848.0, y:0426.0, z:-1163.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 180 to First point on Triangle 184  is: 0304.3
+     Second point on Triangle 180 to Second point on Triangle 184 is: 0304.3
+     Third point on Triangle 180 to Third point on Triangle 184 is: 0304.3
+
+Triangle 184, First point - x:1735.8, y:0544.7, z:-1431.6
+   0125.0 units to the second point:
+Triangle 184, Second point - x:1860.8, y:0544.7, z:-1431.6
+   0216.5 units to the third point:
+Triangle 184, Third point - x:1735.8, y:0669.7, z:-1306.6
+   0176.8 units back to the first point.
+
+     First point on Triangle 184 to First point on Triangle 188  is: 0324.7
+     Second point on Triangle 184 to Second point on Triangle 188 is: 0324.7
+     Third point on Triangle 184 to Third point on Triangle 188 is: 0324.7
+
+Triangle 188, First point - x:1566.8, y:0788.3, z:-1564.1
+   0125.0 units to the second point:
+Triangle 188, Second point - x:1691.8, y:0788.3, z:-1564.1
+   0216.5 units to the third point:
+Triangle 188, Third point - x:1566.8, y:0913.3, z:-1439.1
+   0176.8 units back to the first point.
+
+     First point on Triangle 188 to First point on Triangle 192  is: 0313.1
+     Second point on Triangle 188 to Second point on Triangle 192 is: 0313.1
+     Third point on Triangle 188 to Third point on Triangle 192 is: 0313.1
+
+Triangle 192, First point - x:1363.7, y:1005.9, z:-1661.5
+   0125.0 units to the second point:
+Triangle 192, Second point - x:1488.7, y:1005.9, z:-1661.5
+   0216.5 units to the third point:
+Triangle 192, Third point - x:1363.7, y:1130.9, z:-1536.5
+   0176.8 units back to the first point.
+
+     First point on Triangle 192 to First point on Triangle 196  is: 0273.7
+     Second point on Triangle 192 to Second point on Triangle 196 is: 0273.7
+     Third point on Triangle 192 to Third point on Triangle 196 is: 0273.7
+
+Triangle 196, First point - x:1154.2, y:1176.4, z:-1705.2
+   0125.0 units to the second point:
+Triangle 196, Second point - x:1279.2, y:1176.4, z:-1705.2
+   0216.5 units to the third point:
+Triangle 196, Third point - x:1154.2, y:1301.4, z:-1580.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 196 to First point on Triangle 200  is: 0219.0
+     Second point on Triangle 196 to Second point on Triangle 200 is: 0219.0
+     Third point on Triangle 196 to Third point on Triangle 200 is: 0219.0
+
+Triangle 200, First point - x:0966.2, y:1286.8, z:-1684.7
+   0125.0 units to the second point:
+Triangle 200, Second point - x:1091.2, y:1286.8, z:-1684.7
+   0216.5 units to the third point:
+Triangle 200, Third point - x:0966.2, y:1411.8, z:-1559.7
+   0176.8 units back to the first point.
+
+     First point on Triangle 200 to First point on Triangle 204  is: 0172.6
+     Second point on Triangle 200 to Second point on Triangle 204 is: 0172.6
+     Third point on Triangle 200 to Third point on Triangle 204 is: 0172.6
+
+Triangle 204, First point - x:0823.8, y:1333.9, z:-1599.2
+   0125.0 units to the second point:
+Triangle 204, Second point - x:0948.8, y:1333.9, z:-1599.2
+   0216.5 units to the third point:
+Triangle 204, Third point - x:0823.8, y:1458.9, z:-1474.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 204 to First point on Triangle 208  is: 0163.6
+     Second point on Triangle 204 to Second point on Triangle 208 is: 0163.6
+     Third point on Triangle 204 to Third point on Triangle 208 is: 0163.6
+
+Triangle 208, First point - x:0743.1, y:1323.6, z:-1457.2
+   0125.0 units to the second point:
+Triangle 208, Second point - x:0868.1, y:1323.6, z:-1457.2
+   0216.5 units to the third point:
+Triangle 208, Third point - x:0743.1, y:1448.6, z:-1332.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 208 to First point on Triangle 212  is: 0190.3
+     Second point on Triangle 208 to Second point on Triangle 212 is: 0190.3
+     Third point on Triangle 208 to Third point on Triangle 212 is: 0190.3
+
+Triangle 212, First point - x:0729.3, y:1269.6, z:-1275.2
+   0125.0 units to the second point:
+Triangle 212, Second point - x:0854.3, y:1269.6, z:-1275.2
+   0216.5 units to the third point:
+Triangle 212, Third point - x:0729.3, y:1394.6, z:-1150.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 212 to First point on Triangle 216  is: 0221.0
+     Second point on Triangle 212 to Second point on Triangle 216 is: 0221.0
+     Third point on Triangle 212 to Third point on Triangle 216 is: 0221.0
+
+Triangle 216, First point - x:0775.8, y:1190.6, z:-1074.2
+   0125.0 units to the second point:
+Triangle 216, Second point - x:0900.8, y:1190.6, z:-1074.2
+   0216.5 units to the third point:
+Triangle 216, Third point - x:0775.8, y:1315.6, z:-0949.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 216 to First point on Triangle 220  is: 0233.0
+     Second point on Triangle 216 to Second point on Triangle 220 is: 0233.0
+     Third point on Triangle 216 to Third point on Triangle 220 is: 0233.0
+
+Triangle 220, First point - x:0865.3, y:1106.3, z:-0876.2
+   0125.0 units to the second point:
+Triangle 220, Second point - x:0990.3, y:1106.3, z:-0876.2
+   0216.5 units to the third point:
+Triangle 220, Third point - x:0865.3, y:1231.3, z:-0751.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 220 to First point on Triangle 224  is: 0217.7
+     Second point on Triangle 220 to Second point on Triangle 224 is: 0217.7
+     Third point on Triangle 220 to Third point on Triangle 224 is: 0217.7
+
+Triangle 224, First point - x:0972.3, y:1034.0, z:-0700.9
+   0125.0 units to the second point:
+Triangle 224, Second point - x:1097.3, y:1034.0, z:-0700.9
+   0216.5 units to the third point:
+Triangle 224, Third point - x:0972.3, y:1159.0, z:-0575.9
+   0176.8 units back to the first point.
+
+     First point on Triangle 224 to First point on Triangle 228  is: 0175.0
+     Second point on Triangle 224 to Second point on Triangle 228 is: 0175.0
+     Third point on Triangle 224 to Third point on Triangle 228 is: 0175.0
+
+Triangle 228, First point - x:1067.6, y:0985.8, z:-0562.2
+   0125.0 units to the second point:
+Triangle 228, Second point - x:1192.6, y:0985.8, z:-0562.2
+   0216.5 units to the third point:
+Triangle 228, Third point - x:1067.6, y:1110.8, z:-0437.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 228 to First point on Triangle 232  is: 0112.1
+     Second point on Triangle 228 to Second point on Triangle 232 is: 0112.1
+     Third point on Triangle 228 to Third point on Triangle 232 is: 0112.1
+
+Triangle 232, First point - x:1122.9, y:0966.2, z:-0466.6
+   0125.0 units to the second point:
+Triangle 232, Second point - x:1247.9, y:0966.2, z:-0466.6
+   0216.5 units to the third point:
+Triangle 232, Third point - x:1122.9, y:1091.2, z:-0341.6
+   0176.8 units back to the first point.
+
+     First point on Triangle 232 to First point on Triangle 236  is: 0054.7
+     Second point on Triangle 232 to Second point on Triangle 236 is: 0054.7
+     Third point on Triangle 232 to Third point on Triangle 236 is: 0054.7
+
+Triangle 236, First point - x:1115.8, y:0972.5, z:-0412.7
+   0125.0 units to the second point:
+Triangle 236, Second point - x:1240.8, y:0972.5, z:-0412.7
+   0216.5 units to the third point:
+Triangle 236, Third point - x:1115.8, y:1097.5, z:-0287.7
+   0176.8 units back to the first point.
+
+     First point on Triangle 236 to First point on Triangle 240  is: 0087.3
+     Second point on Triangle 236 to Second point on Triangle 240 is: 0087.3
+     Third point on Triangle 236 to Third point on Triangle 240 is: 0087.3
+
+Triangle 240, First point - x:1034.0, y:0995.0, z:-0392.0
+   0125.0 units to the second point:
+Triangle 240, Second point - x:1159.0, y:0995.0, z:-0392.0
+   0216.5 units to the third point:
+Triangle 240, Third point - x:1034.0, y:1120.0, z:-0267.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 240 to First point on Triangle 244  is: 0158.7
+     Second point on Triangle 240 to Second point on Triangle 244 is: 0158.7
+     Third point on Triangle 240 to Third point on Triangle 244 is: 0158.7
+
+Triangle 244, First point - x:0877.2, y:1019.6, z:-0391.3
+   0125.0 units to the second point:
+Triangle 244, Second point - x:1002.2, y:1019.6, z:-0391.3
+   0216.5 units to the third point:
+Triangle 244, Third point - x:0877.2, y:1144.6, z:-0266.3
+   0176.8 units back to the first point.
+
+     First point on Triangle 244 to First point on Triangle 248  is: 0219.5
+     Second point on Triangle 244 to Second point on Triangle 248 is: 0219.5
+     Third point on Triangle 244 to Third point on Triangle 248 is: 0219.5
+
+Triangle 248, First point - x:0658.0, y:1031.0, z:-0395.8
+   0125.0 units to the second point:
+Triangle 248, Second point - x:0783.0, y:1031.0, z:-0395.8
+   0216.5 units to the third point:
+Triangle 248, Third point - x:0658.0, y:1156.0, z:-0270.8
+   0176.8 units back to the first point.
+
+     First point on Triangle 248 to First point on Triangle 252  is: 0258.4
+     Second point on Triangle 248 to Second point on Triangle 252 is: 0258.4
+     Third point on Triangle 248 to Third point on Triangle 252 is: 0258.4
+
+Triangle 252, First point - x:0400.2, y:1015.5, z:-0391.9
+   0125.0 units to the second point:
+Triangle 252, Second point - x:0525.2, y:1015.5, z:-0391.9
+   0216.5 units to the third point:
+Triangle 252, Third point - x:0400.2, y:1140.5, z:-0266.9
+   0176.8 units back to the first point.
+
+     First point on Triangle 252 to First point on Triangle 256  is: 0271.0
+     Second point on Triangle 252 to Second point on Triangle 256 is: 0271.0
+     Third point on Triangle 252 to Third point on Triangle 256 is: 0271.0
+
+Triangle 256, First point - x:0134.9, y:0964.2, z:-0370.3
+   0125.0 units to the second point:
+Triangle 256, Second point - x:0259.9, y:0964.2, z:-0370.3
+   0216.5 units to the third point:
+Triangle 256, Third point - x:0134.9, y:1089.2, z:-0245.3
+   0176.8 units back to the first point.
+
+     First point on Triangle 256 to First point on Triangle 260  is: 0258.3
+     Second point on Triangle 256 to Second point on Triangle 260 is: 0258.3
+     Third point on Triangle 256 to Third point on Triangle 260 is: 0258.3
+
+Triangle 260, First point - x:-0103.5, y:0874.2, z:-0327.9
+   0125.0 units to the second point:
+Triangle 260, Second point - x:0021.5, y:0874.2, z:-0327.9
+   0216.5 units to the third point:
+Triangle 260, Third point - x:-0103.5, y:0999.2, z:-0202.9
+   0176.8 units back to the first point.
+
+     First point on Triangle 260 to First point on Triangle 264  is: 0226.3
+     Second point on Triangle 260 to Second point on Triangle 264 is: 0226.3
+     Third point on Triangle 260 to Third point on Triangle 264 is: 0226.3
+
+Triangle 264, First point - x:-0283.1, y:0750.2, z:-0268.2
+   0125.0 units to the second point:
+Triangle 264, Second point - x:-0158.1, y:0750.2, z:-0268.2
+   0216.5 units to the third point:
+Triangle 264, Third point - x:-0283.1, y:0875.2, z:-0143.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 264 to First point on Triangle 268  is: 0188.7
+     Second point on Triangle 264 to Second point on Triangle 268 is: 0188.7
+     Third point on Triangle 264 to Third point on Triangle 268 is: 0188.7
+
+Triangle 268, First point - x:-0379.6, y:0602.8, z:-0200.6
+   0125.0 units to the second point:
+Triangle 268, Second point - x:-0254.6, y:0602.8, z:-0200.6
+   0216.5 units to the third point:
+Triangle 268, Third point - x:-0379.6, y:0727.8, z:-0075.6
+   0176.8 units back to the first point.
+
+     First point on Triangle 268 to First point on Triangle 272  is: 0167.5
+     Second point on Triangle 268 to Second point on Triangle 272 is: 0167.5
+     Third point on Triangle 268 to Third point on Triangle 272 is: 0167.5
+
+Triangle 272, First point - x:-0379.6, y:0447.2, z:-0138.7
+   0125.0 units to the second point:
+Triangle 272, Second point - x:-0254.6, y:0447.2, z:-0138.7
+   0216.5 units to the third point:
+Triangle 272, Third point - x:-0379.6, y:0572.2, z:-0013.7
+   0176.8 units back to the first point.
+
+     First point on Triangle 272 to First point on Triangle 276  is: 0181.0
+     Second point on Triangle 272 to Second point on Triangle 276 is: 0181.0
+     Third point on Triangle 272 to Third point on Triangle 276 is: 0181.0
+
+Triangle 276, First point - x:-0283.1, y:0299.8, z:-0097.2
+   0125.0 units to the second point:
+Triangle 276, Second point - x:-0158.1, y:0299.8, z:-0097.2
+   0216.5 units to the third point:
+Triangle 276, Third point - x:-0283.1, y:0424.8, z:0027.8
+   0176.8 units back to the first point.
+
+     First point on Triangle 276 to First point on Triangle 280  is: 0218.5
+     Second point on Triangle 276 to Second point on Triangle 280 is: 0218.5
+     Third point on Triangle 276 to Third point on Triangle 280 is: 0218.5
+
+Triangle 280, First point - x:-0103.5, y:0175.8, z:-0089.1
+   0125.0 units to the second point:
+Triangle 280, Second point - x:0021.5, y:0175.8, z:-0089.1
+   0216.5 units to the third point:
+Triangle 280, Third point - x:-0103.5, y:0300.8, z:0035.9
+   0176.8 units back to the first point.
+
+     First point on Triangle 280 to First point on Triangle 284  is: 0257.0
+     Second point on Triangle 280 to Second point on Triangle 284 is: 0257.0
+     Third point on Triangle 280 to Third point on Triangle 284 is: 0257.0
+
+Triangle 284, First point - x:0134.9, y:0085.8, z:-0123.0
+   0125.0 units to the second point:
+Triangle 284, Second point - x:0259.9, y:0085.8, z:-0123.0
+   0216.5 units to the third point:
+Triangle 284, Third point - x:0134.9, y:0210.8, z:0002.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 284 to First point on Triangle 288  is: 0281.2
+     Second point on Triangle 284 to Second point on Triangle 288 is: 0281.2
+     Third point on Triangle 284 to Third point on Triangle 288 is: 0281.2
+
+Triangle 288, First point - x:0400.2, y:0034.5, z:-0200.8
+   0125.0 units to the second point:
+Triangle 288, Second point - x:0525.2, y:0034.5, z:-0200.8
+   0216.5 units to the third point:
+Triangle 288, Third point - x:0400.2, y:0159.5, z:-0075.8
+   0176.8 units back to the first point.
+
+     First point on Triangle 288 to First point on Triangle 292  is: 0283.4
+     Second point on Triangle 288 to Second point on Triangle 292 is: 0283.4
+     Third point on Triangle 288 to Third point on Triangle 292 is: 0283.4
+
+Triangle 292, First point - x:0658.0, y:0019.0, z:-0317.4
+   0125.0 units to the second point:
+Triangle 292, Second point - x:0783.0, y:0019.0, z:-0317.4
+   0216.5 units to the third point:
+Triangle 292, Third point - x:0658.0, y:0144.0, z:-0192.4
+   0176.8 units back to the first point.
+
+     First point on Triangle 292 to First point on Triangle 296  is: 0262.4
+     Second point on Triangle 292 to Second point on Triangle 296 is: 0262.4
+     Third point on Triangle 292 to Third point on Triangle 296 is: 0262.4
+
+Triangle 296, First point - x:0877.2, y:0030.4, z:-0461.2
+   0125.0 units to the second point:
+Triangle 296, Second point - x:1002.2, y:0030.4, z:-0461.2
+   0216.5 units to the third point:
+Triangle 296, Third point - x:0877.2, y:0155.4, z:-0336.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 296 to First point on Triangle 300  is: 0221.7
+     Second point on Triangle 296 to Second point on Triangle 300 is: 0221.7
+     Third point on Triangle 296 to Third point on Triangle 300 is: 0221.7
+
+Triangle 300, First point - x:1034.0, y:0055.0, z:-0616.0
+   0125.0 units to the second point:
+Triangle 300, Second point - x:1159.0, y:0055.0, z:-0616.0
+   0216.5 units to the third point:
+Triangle 300, Third point - x:1034.0, y:0180.0, z:-0491.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 300 to First point on Triangle 304  is: 0170.4
+     Second point on Triangle 300 to Second point on Triangle 304 is: 0170.4
+     Third point on Triangle 300 to Third point on Triangle 304 is: 0170.4
+
+Triangle 304, First point - x:1115.8, y:0077.5, z:-0763.8
+   0125.0 units to the second point:
+Triangle 304, Second point - x:1240.8, y:0077.5, z:-0763.8
+   0216.5 units to the third point:
+Triangle 304, Third point - x:1115.8, y:0202.5, z:-0638.8
+   0176.8 units back to the first point.
+
+     First point on Triangle 304 to First point on Triangle 308  is: 0124.8
+     Second point on Triangle 304 to Second point on Triangle 308 is: 0124.8
+     Third point on Triangle 304 to Third point on Triangle 308 is: 0124.8
+
+Triangle 308, First point - x:1122.9, y:0083.8, z:-0888.2
+   0125.0 units to the second point:
+Triangle 308, Second point - x:1247.9, y:0083.8, z:-0888.2
+   0216.5 units to the third point:
+Triangle 308, Third point - x:1122.9, y:0208.8, z:-0763.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 308 to First point on Triangle 312  is: 0106.6
+     Second point on Triangle 308 to Second point on Triangle 312 is: 0106.6
+     Third point on Triangle 308 to Third point on Triangle 312 is: 0106.6
+
+Triangle 312, First point - x:1067.6, y:0064.2, z:-0977.3
+   0125.0 units to the second point:
+Triangle 312, Second point - x:1192.6, y:0064.2, z:-0977.3
+   0216.5 units to the third point:
+Triangle 312, Third point - x:1067.6, y:0189.2, z:-0852.3
+   0176.8 units back to the first point.
+
+     First point on Triangle 312 to First point on Triangle 316  is: 0117.4
+     Second point on Triangle 312 to Second point on Triangle 316 is: 0117.4
+     Third point on Triangle 312 to Third point on Triangle 316 is: 0117.4
+
+Triangle 316, First point - x:0972.3, y:0016.0, z:-1026.0
+   0125.0 units to the second point:
+Triangle 316, Second point - x:1097.3, y:0016.0, z:-1026.0
+   0216.5 units to the third point:
+Triangle 316, Third point - x:0972.3, y:0141.0, z:-0901.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 316 to First point on Triangle 320  is: 0129.6
+     Second point on Triangle 316 to Second point on Triangle 320 is: 0129.6
+     Third point on Triangle 316 to Third point on Triangle 320 is: 0129.6
+
+Triangle 320, First point - x:0865.3, y:-0056.3, z:-1037.2
+   0125.0 units to the second point:
+Triangle 320, Second point - x:0990.3, y:-0056.3, z:-1037.2
+   0216.5 units to the third point:
+Triangle 320, Third point - x:0865.3, y:0068.7, z:-0912.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 320 to First point on Triangle 324  is: 0124.0
+     Second point on Triangle 320 to Second point on Triangle 324 is: 0124.0
+     Third point on Triangle 320 to Third point on Triangle 324 is: 0124.0
+
+Triangle 324, First point - x:0775.8, y:-0140.6, z:-1021.2
+   0125.0 units to the second point:
+Triangle 324, Second point - x:0900.8, y:-0140.6, z:-1021.2
+   0216.5 units to the third point:
+Triangle 324, Third point - x:0775.8, y:-0015.6, z:-0896.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 324 to First point on Triangle 328  is: 0095.6
+     Second point on Triangle 324 to Second point on Triangle 328 is: 0095.6
+     Third point on Triangle 324 to Third point on Triangle 328 is: 0095.6
+
+Triangle 328, First point - x:0729.3, y:-0219.6, z:-0994.0
+   0125.0 units to the second point:
+Triangle 328, Second point - x:0854.3, y:-0219.6, z:-0994.0
+   0216.5 units to the third point:
+Triangle 328, Third point - x:0729.3, y:-0094.6, z:-0869.0
+   0176.8 units back to the first point.
+
+     First point on Triangle 328 to First point on Triangle 332  is: 0059.0
+     Second point on Triangle 328 to Second point on Triangle 332 is: 0059.0
+     Third point on Triangle 328 to Third point on Triangle 332 is: 0059.0
+
+Triangle 332, First point - x:0743.1, y:-0273.6, z:-0974.3
+   0125.0 units to the second point:
+Triangle 332, Second point - x:0868.1, y:-0273.6, z:-0974.3
+   0216.5 units to the third point:
+Triangle 332, Third point - x:0743.1, y:-0148.6, z:-0849.3
+   0176.8 units back to the first point.
+
+     First point on Triangle 332 to First point on Triangle 336  is: 0081.6
+     Second point on Triangle 332 to Second point on Triangle 336 is: 0081.6
+     Third point on Triangle 332 to Third point on Triangle 336 is: 0081.6
+
+Triangle 336, First point - x:0823.8, y:-0283.9, z:-0980.2
+   0125.0 units to the second point:
+Triangle 336, Second point - x:0948.8, y:-0283.9, z:-0980.2
+   0216.5 units to the third point:
+Triangle 336, Third point - x:0823.8, y:-0158.9, z:-0855.2
+   0176.8 units back to the first point.
+
+     First point on Triangle 336 to First point on Triangle 340  is: 0156.5
+     Second point on Triangle 336 to Second point on Triangle 340 is: 0156.5
+     Third point on Triangle 336 to Third point on Triangle 340 is: 0156.5
+
+Triangle 340, First point - x:0966.2, y:-0236.8, z:-1024.9
+   0125.0 units to the second point:
+Triangle 340, Second point - x:1091.2, y:-0236.8, z:-1024.9
+   0216.5 units to the third point:
+Triangle 340, Third point - x:0966.2, y:-0111.8, z:-0899.9
+   0176.8 units back to the first point.
+
+     First point on Triangle 340 to First point on Triangle 344  is: 0235.8
+     Second point on Triangle 340 to Second point on Triangle 344 is: 0235.8
+     Third point on Triangle 340 to Third point on Triangle 344 is: 0235.8
+
+Triangle 344, First point - x:1154.2, y:-0126.4, z:-1114.6
+   0125.0 units to the second point:
+Triangle 344, Second point - x:1279.2, y:-0126.4, z:-1114.6
+   0216.5 units to the third point:
+Triangle 344, Third point - x:1154.2, y:-0001.4, z:-0989.6
+   0176.8 units back to the first point.
+
+     First point on Triangle 344 to First point on Triangle 348  is: 0300.6
+     Second point on Triangle 344 to Second point on Triangle 348 is: 0300.6
+     Third point on Triangle 344 to Third point on Triangle 348 is: 0300.6
+
+Triangle 348, First point - x:1363.7, y:0044.1, z:-1246.3
+   0125.0 units to the second point:
+Triangle 348, Second point - x:1488.7, y:0044.1, z:-1246.3
+   0216.5 units to the third point:
+Triangle 348, Third point - x:1363.7, y:0169.1, z:-1121.3
+   0176.8 units back to the first point.
+
+     First point on Triangle 348 to First point on Triangle 352  is: 0338.6
+     Second point on Triangle 348 to Second point on Triangle 352 is: 0338.6
+     Third point on Triangle 348 to Third point on Triangle 352 is: 0338.6
+
+Triangle 352, First point - x:1566.8, y:0261.7, z:-1407.9
+   0125.0 units to the second point:
+Triangle 352, Second point - x:1691.8, y:0261.7, z:-1407.9
+   0216.5 units to the third point:
+Triangle 352, Third point - x:1566.8, y:0386.7, z:-1282.9
+   0176.8 units back to the first point.
+
+     First point on Triangle 352 to First point on Triangle 356  is: 0342.5
+     Second point on Triangle 352 to Second point on Triangle 356 is: 0342.5
+     Third point on Triangle 352 to Third point on Triangle 356 is: 0342.5
+
+Triangle 356, First point - x:1735.8, y:0505.3, z:-1579.3
+   0125.0 units to the second point:
+Triangle 356, Second point - x:1860.8, y:0505.3, z:-1579.3
+   0216.5 units to the third point:
+Triangle 356, Third point - x:1735.8, y:0630.3, z:-1454.3
+   0176.8 units back to the first point.
+
+     First point on Triangle 356 to First point on Triangle 0 is: 0310.7
+     Second point on Triangle 356 to Second point on Triangle 0 is: 0310.7
+     Third point on Triangle 356 to Third point on Triangle 0 is: 0310.7
