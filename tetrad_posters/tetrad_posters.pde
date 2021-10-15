@@ -28,7 +28,7 @@ void draw() {
   cp5.getController("hue2Slider").setVisible(true);
   cp5.getController("baseSaturationSlider").setVisible(true);
   cp5.getController("baseValueSlider").setVisible(true);
-  saveFrame("frame-####.png");
+  //saveFrame("frame-####.png");
 }
 
 void initColorFields() {
