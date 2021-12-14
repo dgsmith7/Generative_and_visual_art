@@ -1,11 +1,11 @@
 import peasy.*;
 PeasyCam cam;
 
-int nNodes = 5000;
+int nNodes = 50000;
 Node[] allNodes = new Node[nNodes];
-int minSize = 10;
-int maxSize = 25;
-float opacity = 255;
+int minSize = 5;
+int maxSize = 50;
+float opacity = 175;
 int[] lastInSector = new int[32];
 
 float rx = 0;
@@ -13,15 +13,15 @@ float ry = 0;
 float rz = 0;
 
 void setup() {
-  //size (800, 800, P3D);
-  fullScreen(P3D);
+  size (800, 800, P3D);
+  //fullScreen(P3D);
   smooth();
   colorMode(HSB, 360, 100, 100);
   initLastInSectorArray();
   initNodes();
   cam = new PeasyCam(this, 2500);
   cam.setMinimumDistance(100);
-  cam.setMaximumDistance(5000);
+  cam.setMaximumDistance(10000);
   sphereDetail(15);
   textSize(25);
 }
