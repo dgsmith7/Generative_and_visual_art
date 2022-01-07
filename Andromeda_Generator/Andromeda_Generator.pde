@@ -16,12 +16,12 @@ final float radius = 150;
 int hoodSize = 5;  // number of cells in neighborhood
 int seedProb = 15000;  // 1 in this # chance of a seed being made at init
 int rules[][] = new int[int(pow(2, hoodSize))][hoodSize];  // make rule grid
-int ruleSetDec = 2;  // rule to show at startup
+int ruleSetDec = 2000;  // rule to show at startup
 int nextRule = 30000; //adjust with w(+1) and s(-1), 1(+10) ,2(+100) ,3(+1000) ,4(+10000) then hit enter
 int ruleSetKey[] = new int[int(pow(2, hoodSize))];  //make rule key
-int gridX = 45; 
-int gridY = 45;
-int gridZ = 45;
+int gridX = 20; 
+int gridY = 20;
+int gridZ = 25;
 int size = 10;  // size of cells in grid
 Cube matrix[][][] = new Cube[gridX][gridY][gridZ];
 Cube nextMatrix[][][] = new Cube[gridX][gridY][gridZ];
@@ -29,6 +29,7 @@ int frm = 25;  // adjust frame rate with a(+) and z(-)
 
 void setup() {
   size(1200, 750, P3D);
+  background(100);
   frameRate(frm);
   populateRules(); // build rule set 
   initMatrix(); // setup initial state with seeds
@@ -44,11 +45,12 @@ void setup() {
 void draw() {
   background(100);
   translate(-width/5 -height/5, -50);  // position for better viewing
-  stroke(255);
-  //displayRefLines();
-  fill(250, 0, 0, 50);
+  stroke(0,0,0,50);
+  displayRefLines();
+  //fill(250, 0, 0, 50);
   noStroke();
   displayMatrix();
+//  displayMatrixGray();
   updateMatrix();
   frameRate(frm);
   //  stroke(0);
@@ -106,6 +108,19 @@ void displayMatrix() {  // show each cell
   }
 }
 
+void displayMatrixGray() {  // show each cell
+  for (int i = 0; i < gridX; i ++) {
+    for (int j = 0; j < gridY; j ++) {
+      for (int k = 0; k < gridZ; k ++) {
+          fill(100);
+          translate(size * matrix[i][j][k].x, size * matrix[i][j][k].y, -size * matrix[i][j][k].z);
+          sphere(size); 
+          translate(-size * matrix[i][j][k].x, -size * matrix[i][j][k].y, size * matrix[i][j][k].z);
+      }
+    }
+  }
+}
+
 void updateMatrix() {
   int changeRate = 0;
   for (int i = 1; i < gridX-1; i++) {
@@ -139,6 +154,8 @@ void updateMatrix() {
   //  println(changeRate);
   if (changeRate == 0) { // if rule is exhausted change to next even one
     ruleSetDec = ruleSetDec + 2;
+//      delay(200);
+
     if (ruleSetDec > int(pow(int(pow(2, hoodSize)), hoodSize))-1) {
       ruleSetDec = 1;
     }

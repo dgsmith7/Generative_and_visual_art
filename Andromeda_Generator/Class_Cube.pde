@@ -17,15 +17,18 @@ class Cube {
   }
   
   void display() {
-    if (this.state == 0) {}//{fill(125, 0 , 0, 50); translate(size * this.x, size * this.y, -size * this.z); box(2);translate(-size * this.x, -size * this.y, size * this.z);}
-    else {
+    if (this.state == 0) {
+    }//{fill(125, 0 , 0, 50); translate(size * this.x, size * this.y, -size * this.z); box(2);translate(-size * this.x, -size * this.y, size * this.z);}
+    else
+    
+    
+    {
       fill(map(x, 0, gridX, 0, 255), map(y, 0, gridY, 0, 255) , map(z, 0, gridZ, 0 , 255), 75);
           translate(size * this.x, size * this.y, -size * this.z);
 //            rect(this.x, this.y, size*.5, size*.5);
-          box(size); 
+          sphere(size); 
           translate(-size * this.x, -size * this.y, size * this.z);
         }
   }
   
 }
-
