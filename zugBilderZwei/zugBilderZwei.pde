@@ -2,6 +2,7 @@
 //import peasy.*;PeasyCam cam;//float radius = 50;
 
 import processing.pdf.*;
+import processing.svg.*;
 
 //           0  1  2  3  4   5   6   7   8   9   10  11
 int[] c1s = {2, 2, 2, 3, 4,  5,  6,  7,  10, 11, 15, 16};
@@ -26,7 +27,7 @@ float lastX, lastY, lastZ;
 float rFactor = 0;
 
 void setup() {
-  size(2400, 2400, P3D);
+  size(500, 500, P3D);
   frameRate(60);
 //	size(600, 933, P3D);  //3' x 4'6" 
 	//  size(3600, 5600, P3D);
@@ -46,7 +47,7 @@ noLoop();
 }
 
 void draw() {
-	beginRaw(PDF, "MBFS_FG"+c1+"-"+c2+"-"+c3+".pdf");
+	beginRaw(SVG, "MBFS_FG"+c1+"-"+c2+"-"+c3+".svg");
 //	background(0, 0, 100, 255);
 //background(11,49,8);
 	displayBG();

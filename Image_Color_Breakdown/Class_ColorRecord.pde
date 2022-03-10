@@ -1,12 +1,14 @@
 class ColorRecord {
   
   color c;
-  float numberOfOccurences;
+  color c2;
+  int numberOfOccurences;
   float percentage;
   
-  ColorRecord (color c, float numberOfOccurences) {
+  ColorRecord (color c, int numberOfOccurences) {
     this.c = c;
-    this.numberOfOccurences = numberOfOccurences;;
+    this.c2 = c;
+    this.numberOfOccurences = numberOfOccurences;
     this.percentage = numberOfOccurences / (img.width * img.height);
   }
   

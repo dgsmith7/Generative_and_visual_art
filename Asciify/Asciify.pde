@@ -9,8 +9,8 @@ int resolution = 8;
 char[] ascii;
  
 void setup() {
-  img = loadImage("thisOne.png");
-  size(936, 550);
+  img = loadImage("face.png");
+  size(1350, 1350);
   background(255);
   fill(0);
   noStroke();

@@ -3,14 +3,14 @@
 // keystroke changes effect
 
 String [] fileName = {
-  "baconSlice.png"
+  "PixelsIdx.png"
 };
 int imageQuantity = 1;
 int whichFile = 0; //int(random(0, imageQuantity));
 PImage p;
 color [][] pixArray;
 boolean effectOn = false;
-int blockSize = 10;
+int blockSize = 20;//27 for 48stud 15x15 or 20 for 64 studs 20x20
 
 // for Chuck Close project
 int zeroCount = 0;
@@ -22,7 +22,7 @@ int lineCount = 0;
 //
 
 void setup() {
-  size(1624, 795);
+  size(1280, 1280);
 //  frame.setResizable(true);
   p = loadImage(fileName[whichFile]);
 //  size(p.width, p.height);
@@ -46,13 +46,13 @@ void draw() {
 pixelate();
   image(p, 0, 0);
   
-  textSize(120);
-  fill(130, 20, 20);
-  text("1000010", 100, 120);
-  text("1000010", 100, 240);
-  text("1000011", 100, 360);
+  //textSize(120);
+  //fill(130, 20, 20);
+  //text("1000010", 100, 120);
+  //text("1000010", 100, 240);
+  //text("1000011", 100, 360);
   
-    save("Pixels.png");
+    save("Pixels2.png");
 }
 
 void keyPressed () {
